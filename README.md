@@ -60,14 +60,14 @@ endmodule
 
 ## RTL realization output
 
-![321858145-5e88c768-1359-4de1-9c27-30b36608cacf](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/a86b8a88-9cfd-46f7-a430-98227cff9fc4)
+![image](https://github.com/HarrishVenkat/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979588/a7f3675f-40d4-416d-95f9-f83d54f83c27)
 
 ## Truth table
-![321858182-f2ecbac4-57f6-4136-b61b-d6a708096c3c](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/52e5be68-d7b5-4f48-ad95-1b8848c327ec)
+![image](https://github.com/HarrishVenkat/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979588/09f2ae55-3fe9-4fc6-b1b3-321c9ea3731c)
 
 ## Timing Diagram
 
-![321858226-37003697-22ae-4e2c-91ba-23a298de0604](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/82dea792-3035-42b6-af5c-134c0e74c8b2)
+![image](https://github.com/HarrishVenkat/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979588/5831b659-3050-45a5-8db4-ab031948a2c4)
 
 ## Result:
 
